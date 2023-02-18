@@ -1,4 +1,4 @@
-# Selecci-n-de-emisoras-medinte-metodos-fiancieros-en-python
+# Seleccion-de-emisoras-mediante-metodos-fiancieros-en-python
 Metodología:
 
 1.- Traemos la data de las emisoras participantes en la plataforma del RETO ACTINVER
